@@ -58,7 +58,7 @@ Explore Hyperautomation and Low Code.
 Finance and Supply Chain Management
 Deliver innovation while cutting costs. Automate manual processes, streamline supplier collaboration, and cut technical debt down to zero with Finance and Supply Chain Management.
 
-What ServiceNow products are available?
+5.What ServiceNow products are available?
 With its range of solutions tailored to meet the specific needs of businesses across multiple industries, ServiceNow gives organizations the tools and capabilities to improve operations and deliver better outcomes. This powerful and versatile set of solutions includes:
 
 IT Service Management (ITSM)
@@ -99,14 +99,14 @@ Efficiently streamline finance and supply chain operations by consolidating team
 And that is only the beginning. Discover all ServiceNow products.
 
 
-5.ServiceNow: the intelligent platform for digital transformation
+6.ServiceNow: the intelligent platform for digital transformation
 ServiceNow bridges the gap between IT, business objectives, employees, customers, and data—automating complex workflows, enhancing experiences, and driving operational excellence throughout entire processes.
 
 With a comprehensive set of products and solutions tailored to meet the needs of organizations across a wide range of industries, ServiceNow is the ideal choice for any company interested in improving its operations to drive growth and reduce costs. 
 Because after all, IT is central to modern business; give it the support, direction, and power it needs to take your business further, with ServiceNow.
 
 
-6.What is ServiceNow used for?
+7.What is ServiceNow used for?
 ServiceNow is used to set up systems that define, manage, automate and structure IT services for companies. At a very simple level, think of it as a tool that allows you to raise and track tickets as well as process and catalogue regular IT service requests. These requests can include:
 
 Incidents: An issue or something not working correctly.
