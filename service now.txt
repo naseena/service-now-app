@@ -1,0 +1,144 @@
+1.What is ServiceNow?
+
+ServiceNow is a cloud-based workflow automation platform that enables enterprise organizations to improve operational efficiencies by streamlining and automating routine work tasks.
+With roots in IT Service Management, ServiceNow has evolved to become the enterprise service management platform for organizations, 
+uniting all business functions from customer service to HR to security, and more.
+
+“ServiceNow is one of those rare software platforms that can show a rapid return on investment,
+and continue to deliver strong value as the organization expands its use.”
+
+
+
+2.What does ServiceNow do?
+The only constant today is change. As we have witnessed over the past few years, disruptions happen all the time, and they create tremendous challenges for businesses worldwide.
+Businesses are constantly seeking ways to drive growth, reduce costs, and manage risk. Today’s organizations suffer from digital sprawl—they have tons of data sitting across a multitude of systems and vendors,
+making it difficult to connect, orchestrate and structure to create efficient processes and outcomes. This creates operational and technological challenges that hinder scale, create risk,
+diminish customer experience, and stifle agility across an enterprise, regardless of their size or industry.
+
+Businesses looking to reduce cost—and drive growth—work with ServiceNow, the intelligent platform for digital transformation. 
+ServiceNow is not a system of record—but rather a System of Action®—a platform that sits atop organizations’ existing data and systems,
+preventing the need to rip and replace those existing systems. With simple, easy-to-use interfaces that empower employees and customers,
+the ability to purposefully orchestrate and automate tasks and processes across their enterprise—that also extends to their ecosystems—to drive efficiency and optimization, 
+using customizable, low-code tools that allow organizations to quickly scale and adapt to any force,
+ServiceNow is the only intelligent platform that empowers organizations to grow the top line while protecting the bottom line.
+ServiceNow helps companies take a platform and digital-first approach that creates a better organizational posture for today and drives efficiency and growth for the future.
+
+
+3.What is the Now Platform?
+ServiceNow is powered by a singular technology stack that we call the Now Platform. Every solution that we sell—whether for IT, Operations,
+Customer Service, HR, Shared Services, Finance (back office), purpose-built Industry solutions, and more—is built on the Now Platform.
+As global business continues to become more and more complex, organizations must become more efficient and simplify work in order to control costs and extract the most value from all of their technology investments. Born in the cloud with a single data model and based on a secure, task-based technology framework—with AI and machine learning built-in—the Now Platform enables data to flow seamlessly across applications, departments, and existing systems to automate, optimize, and modernize work. With a single, intelligent, low-code platform, reusable data model, and single architecture, organizations in any industry can keep work flowing quickly and seamlessly, all while removing complexity for end-users. The Now Platform enables any company to digitize any process across their organization with pre-built and customizable workflow solutions across functions and critical business systems by connecting them on a single platform so that companies can maximize the value of existing IT investments, reduce costs, make impactful improvements in core business processes, and ultimately, drive growth.
+
+
+
+4.What solutions does ServiceNow provide?
+ServiceNow offers solutions built to optimize how companies use technology to unlock productivity and deliver the best possible experiences for employees and customers. Supporting this mandate are five categories of solutions made possible by ServiceNow:
+Graphic showing how ServiceNow works
+
+Technology Excellence
+Leverage the power of AI, machine learning, and automation to deliver secure and resilient technology services that differentiate your business and neutralize threats.
+Provide a holistic and strategic view of your enterprise technology, empowering your business to achieve speed and agility while driving growth and innovation.
+Learn more about Technology Excellence.
+
+Customer Experience
+With AI capabilities that allow customers to self-serve, drive down case volumes, and increase response times, you’ll create customer experiences that increase customer loyalty,
+empower your teams, and improve the bottom line. Explore what’s possible with Customer Experience.
+
+Operational Excellence
+Craft transparent, trustworthy, effective processes across every part of the workday. Reduce costs, increase efficiencies, and demonstrate resilience while building a competitive advantage with Operational Excellence.
+
+Employee Experience
+Provide a personalized and secure platform for employees to access all the information, tools, and support they need, while reducing complexity and improving productivity.
+Empower employees to work flexibly and efficiently, streamlining processes and technologies, and drive business outcomes with Employee Experience.
+
+Hyperautomation and Low Code
+Automate workflows and modernize legacy processes using low-code and no-code development capabilities to deploy apps fast and drive efficiency across the organization.
+Explore Hyperautomation and Low Code.
+
+Finance and Supply Chain Management
+Deliver innovation while cutting costs. Automate manual processes, streamline supplier collaboration, and cut technical debt down to zero with Finance and Supply Chain Management.
+
+What ServiceNow products are available?
+With its range of solutions tailored to meet the specific needs of businesses across multiple industries, ServiceNow gives organizations the tools and capabilities to improve operations and deliver better outcomes. This powerful and versatile set of solutions includes:
+
+IT Service Management (ITSM)
+ITSM helps organizations manage IT infrastructure and services, including incident management, problem management, change management, and asset management.
+
+IT Operations Management (ITOM)
+ITOM provides invaluable support in managing the performance and availability of IT infrastructure and services, including networks, servers, and applications.
+
+Customer Service Management (CSM)
+CSM delivers a consistent and personalized customer experience across all channels and touchpoints, making it ideal for any businesses that wish to optimize their customer experiences.
+
+App Engine
+App Engine enables organizations to build custom applications on the Now Platform using low-code and no-code development capabilities, turning software concepts into reality without the need for programming expertise
+
+Automation Engine
+Automation Engine puts intelligent technologies to work to automate workflows and processes, reducing manual effort and improving efficiency.
+
+Strategic Portfolio Management (SPM)
+SPM ensures that everything remains fully aligned with established business goals and objectives, for businesses that want to improve how they manage and optimize their portfolio of IT and business projects.
+
+HR Service Delivery
+HR Service Delivery assists organizations in streamlining their HR processes and delivering a retention-building employee experience through advanced employee self-service, HR case management, and onboarding/offboarding support.
+
+Security Operations (SecOps)
+SecOps provides the tools to manage security incidents and vulnerabilities quickly and successfully, ensuring that potential issues are identified and addressed before they can damage the business.
+
+Governance, Risk, and Compliance (GRC)
+GRC helps organizations manage risk and compliance across their operations, including regulatory compliance, risk assessments, and policy management.
+
+Workplace Service Delivery (WSD)
+WSD provides a single, centralized platform for employees to access services and support, including IT, HR, and facilities.
+
+Field Service Management (FSM)
+FSM takes cloud-based support and essential work order management, scheduling, and dispatching resources out of the office, providing field service operations for technicians and others who operate on-location to serve customers.
+
+Finance and Supply Chain
+Efficiently streamline finance and supply chain operations by consolidating teams, data, and processes on a single platform, automating manual tasks, like source-to-pay, and implement purpose-built workflows.
+And that is only the beginning. Discover all ServiceNow products.
+
+
+5.ServiceNow: the intelligent platform for digital transformation
+ServiceNow bridges the gap between IT, business objectives, employees, customers, and data—automating complex workflows, enhancing experiences, and driving operational excellence throughout entire processes.
+
+With a comprehensive set of products and solutions tailored to meet the needs of organizations across a wide range of industries, ServiceNow is the ideal choice for any company interested in improving its operations to drive growth and reduce costs. 
+Because after all, IT is central to modern business; give it the support, direction, and power it needs to take your business further, with ServiceNow.
+
+
+6.What is ServiceNow used for?
+ServiceNow is used to set up systems that define, manage, automate and structure IT services for companies. At a very simple level, think of it as a tool that allows you to raise and track tickets as well as process and catalogue regular IT service requests. These requests can include:
+
+Incidents: An issue or something not working correctly.
+Changes: A request for something to be changed.
+Problems: An incident or collection of related incidents that can’t be resolved easily.
+Other: Equipment requests, etc.
+Due to being entirely cloud-based, ServiceNow has proven ideal for organisations providing IT services at scale. With no servers to maintain, customers essentially rent the entire platform and benefit from the addition of new services, deep customisation options, and highly flexible integrations with third-party solutions.
+
+Because of its flexibility, scale and ease of use, ServiceNow has been widely adopted across the following sectors:
+
+Healthcare
+Financial services
+Government
+Manufacturing
+Telecommunications
+Education
+ServiceNow organises its cloud offerings into five categories:
+
+Security
+Customer service
+IT
+HR
+Business apps
+Across these five categories, you can benefit from the following functionality:
+
+Service portals
+Subscriptions and notifications
+Knowledge bases
+Service catalogues
+Workflows
+Developer tools
+Reports and dashboards
+Single databases
+Contextual collaboration
+Orchestration
